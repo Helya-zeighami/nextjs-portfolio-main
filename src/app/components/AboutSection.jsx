@@ -59,10 +59,10 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I'm your coding buddy, proficient in JavaScript, HTML, CSS, and
-            ReactJS. Always hungry for knowledge, I'm on a mission to create
+            I&apos;m your coding buddy, proficient in JavaScript, HTML, CSS, and
+            ReactJS. Always hungry for knowledge, I&apos;m on a mission to create
             innovative and user-friendly web applications that make you go,
-            "Wow!"
+            &apos;Wow!&apos;
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

@@ -17,18 +17,18 @@ const HeroSection = () => {
         >
           <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
-              Hello,
+              Hello, I&apos;m
             </span>
             <br></br>
             <TypeAnimation
-              sequence={["I'm Helya", 1000, "Front-End Developer"]}
+              sequence={["Helya", 1000, "Front-End Developer"]}
               wrapper="span"
               speed={50}
               repeat={Infinity}
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Greetings! I'm Helya Zeighami, a passionate Front-End Developer.
+            Greetings! I&apos;m Helya Zeighami, a passionate Front-End Developer.
             Currently, I am on a mission to blend creativity with technical
             proficiency in the realm of web development.
           </p>
@@ -37,7 +37,7 @@ const HeroSection = () => {
               href="/#contact"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
-              Hire Me
+              Hire Me&apos;
             </Link>
             <Link
               href="/"
