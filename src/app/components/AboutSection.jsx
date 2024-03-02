@@ -10,7 +10,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>HTML, CSS, JS / ES6, Typescript</li>
-        <li>React.js</li>
+        <li>React.js, Vue.js</li>
         <li>Nexjs</li>
         <li>Bootstrap, Tailwind, Material UI, SCSS</li>
         <li>Rest API, Rapid API, React Query</li>
@@ -59,7 +59,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I&apos;m your coding buddy, proficient in JavaScript, HTML, CSS, and
+            I&apos;m your coding buddy, proficient in JavaScript, HTML, CSS, VueJs and
             ReactJS. Always hungry for knowledge, I&apos;m on a mission to create
             innovative and user-friendly web applications that make you go,
             &apos;Wow!&apos;
